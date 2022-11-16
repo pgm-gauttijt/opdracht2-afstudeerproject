@@ -36,6 +36,14 @@ events = [
 
 ]
 
+socials = {
+  website: 'http://www.pgm.gent',
+  linkedin: 'https://www.linkedin.com/company/28878545/admin/',
+  facebook: 'https://www.facebook.com/Programmeren.ahs',
+  instagram: 'https://www.instagram.com/programmeren.ahs/',
+  youtube: 'https://www.youtube.com/channel/UCHly8VZULSMWEmvbPJNVtFA'
+}
+
 projects = [
   {
     id: '3defdcb9-3fe3-4e69-9b9c-fd1186fa69a9',
