@@ -37,11 +37,11 @@ events = [
 ]
 
 socials = {
-  website: 'http://www.pgm.gent',
-  linkedin: 'https://www.linkedin.com/company/28878545/admin/',
-  facebook: 'https://www.facebook.com/Programmeren.ahs',
-  instagram: 'https://www.instagram.com/programmeren.ahs/',
-  youtube: 'https://www.youtube.com/channel/UCHly8VZULSMWEmvbPJNVtFA'
+  Website: 'http://www.pgm.gent',
+  Linkedin: 'https://www.linkedin.com/company/28878545/admin/',
+  Facebook: 'https://www.facebook.com/Programmeren.ahs',
+  Instagram: 'https://www.instagram.com/programmeren.ahs/',
+  Youtube: 'https://www.youtube.com/channel/UCHly8VZULSMWEmvbPJNVtFA'
 }
 
 projects = [

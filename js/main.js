@@ -80,7 +80,7 @@
     generateHtmlForSocials(socials){
       let tempStr = '';
       for(let prop in socials){
-        tempStr += `<a href="${socials[prop]}" target="__blank" ${this.generateHTMLForSocialMediaIcon(prop)}>${prop}</a>`
+        tempStr += `<a href="${socials[prop]}" target="__blank" ${this.generateHTMLForSocialMediaIcon(prop)}>  ${prop}</a>`
       }
       return tempStr;
     },

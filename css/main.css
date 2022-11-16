@@ -1,0 +1,121 @@
+
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav {
+  background-color: rgba(0, 0, 0, 0.093);
+ margin: 0 auto;
+ text-align: center;
+ display: flex;
+ height: 60px;
+ align-items: center;
+}
+
+.nav a{
+  text-decoration: none;
+  color: rgba(18, 140, 81, 0.627);
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 10px;
+
+}
+
+.events ul > li {
+  list-style: none;
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+}
+
+
+
+.events{
+
+  text-align: center; 
+
+
+}
+
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+a:hover{
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.socials{
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: rgba(0, 0, 0, 0.093);
+  padding: 15px;
+}
+.socials a {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: rgba(18, 140, 81, 0.627);
+}
+
+.upcounter, .countdown{
+  background-color: rgba(18, 140, 81, 0.627);
+  padding: 15px;
+}
+.upcounter, .countdown p{
+  text-align: center;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.projects {
+  padding-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items:baseline;
+  flex-grow: 1;
+  justify-content: center;
+
+}
+
+.projects div {
+  border: 2px black;
+  max-width: 34%;
+ text-align: center;
+ padding: 4rem;
+
+}
+
+.projects > div > p {
+  padding-top: 20px;
+}
+
+.projects li {
+  list-style: none;
+  font-weight: 400;
+  
+}
+
+.projects ul {
+  padding: 0px;
+  padding-bottom: 10px;
+}
+
+.projects div > img {
+  max-width: 100%;
+  border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+
